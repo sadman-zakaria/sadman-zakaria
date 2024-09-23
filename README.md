@@ -1,6 +1,6 @@
 ![I am harun181](https://github.com/harun181/harun181/blob/main/code.png)
 
-<h1 align="center">Hi 👋, I'm SADMAN ZAKARIA</h1>
+<h1 align="center">Hi 🤗, I'm SADMAN ZAKARIA</h1>
 <h3 align="center">Programmer | Web Designer | Speed Learner</h3>
 <h4 align="center">Student at Hablu Programmer</h4>
 
@@ -16,13 +16,12 @@ Skills:  JS / HTML / CSS
 
 - 🌱 I’m currently learning font-end web devolopment
 
-- 👨‍💻  my first projects at Hablu programer[(https://sadman-zakaria.github.io/CSS-project1/)]
+- 👨‍💻  my first projects at Hablu programer[(https://sadman-zakaria.github.io/Assigment-1/)]
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
 - 📫 How to reach me **sadicon5152@gmail.com**
 
-- TEXT Me:[(https://www.facebook.com/profile.php?id=100071522962838)]
 
 <h3 align="left">Connect with me:</h3>
 
@@ -34,7 +33,7 @@ Skills:  JS / HTML / CSS
 
 </p>
 
-## Use To Code
+## Learning:
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -61,10 +60,7 @@ Skills:  JS / HTML / CSS
 
 ## Best Repo -
 
-[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harun181/Java-Project)
-[![100+ C Problems](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harun181/100_plus_C_Problems)
-[![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=front_end_projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harun181/front_end_projects)
-[![Weblitical](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=weblitical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harun181/weblitical)
+CSs projcet:[(https://sadman-zakaria.github.io/CSS-project1/)]
 
 <p align="left">
   <a href="https://github.com/harun181?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
