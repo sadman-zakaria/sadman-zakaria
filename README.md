@@ -8,7 +8,7 @@
 
 ![Profile views](Working on it)
 
-Skills:  JS / HTML / CSS
+Skills:  JS / HTML / CSS /Tailiwind
 
 </div>
 
