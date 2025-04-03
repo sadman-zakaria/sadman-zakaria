@@ -1,24 +1,21 @@
 ![I am harun181](https://github.com/harun181/harun181/blob/main/code.png)
 
 <h1 align="center">Hi 🤗, I'm SADMAN ZAKARIA</h1>
-<h3 align="center">Programmer | Web Designer | Speed Learner</h3>
-<h4 align="center">Student at Hablu Programmer</h4>
+<h3 align="center">Programmer | Frontend Web Developer </h3>
 
 <div align="center">
 
 ![Profile views](Working on it)
 
-Skills:  JS / HTML / CSS /Tailiwind
+Skills: HTML / CSS /Tailiwind / js /React
 
 </div>
-
-- 🔭 I’m a student at [Hablu Programmer](https://www.hablu-programmer.com/)
 
 - 🌱 I’m currently learning font-end web devolopment
 
 - 👨‍💻  my first projects at Hablu programer[(https://sadman-zakaria.github.io/Assigment-1/)]
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+- 💬 Ask me about **HTML5, CSS3, JS, Tailwind, React**
 
 - 📫 How to reach me **sadicon5152@gmail.com**
 
@@ -49,8 +46,6 @@ Skills:  JS / HTML / CSS /Tailiwind
 ![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
