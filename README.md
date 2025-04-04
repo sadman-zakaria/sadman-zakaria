@@ -5,7 +5,7 @@
 
 <div align="center">
 
-i am folowing : <a herf="https://chatgpt.com/canvas/shared/67f01364535081919f1e95acc614af65"></a>
+i am folowing : <a herf="https://chatgpt.com/canvas/shared/67f01364535081919f1e95acc614af65">ChatGpT Suggation</a>
 
 Skills: HTML / CSS /Tailiwind / js /React
 
